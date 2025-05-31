@@ -1,4 +1,4 @@
-class Mytool < Formula
+class YoutubeCli < Formula
   desc "Terminal YouTube player with ASCII video"
   homepage "https://github.com/BlueMackerel/youtube.cli"
   url "https://github.com/BlueMackerel/homebrew-youtube.cli/archive/v1.0.0.tar.gz"
